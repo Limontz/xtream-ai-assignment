@@ -203,4 +203,4 @@ Let's get cracking! 🍐💼🔍
 ---
 
 ## How to run
-Please fill this section as part of the assignment.
+I have done the first assignment regarding the diamond set. In my forked repository, you will find a folder named 'Simonte_assignment'. Inside the folder, there are 3 files: the diamond csv file, the jupyter notebook with the main script (diamonds_problem.ipynb) and the script fits_lib.py. The latter is a script containing classes and functions used for the analysis. **I have solved both challenges 1 and 2 in a single jupyter notebook**. To run my script, please open the Jupyter notebook 'diamonds_problem.ipynb' (using tools like Anaconda or VScode) and execute each cell in the established order. Before running the Jupyter notebook, **ensure that both the notebook itself, the 'fits_lib.py' file, and the diamond dataset are located in the same directory**. If they are not in the same directory, **you can add the latters to the Python PATH**. For any issues, feel free to reach out to me at marcosimonte96@gmail.com
